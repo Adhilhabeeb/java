@@ -6,7 +6,7 @@ public static void main(String arr[]){
 
 Scanner sc= new Scanner(System.in);
 
-System.out.println("enter number");
+System.out.println("enter numberf");
 int a=sc.nextInt();
 System.out.println("enter 2 number");
 int b=sc.nextInt();

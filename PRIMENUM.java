@@ -27,7 +27,7 @@ return true;
 }
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
-        System.out.println("enter number");
+        System.out.println("enter numberf");
         int a=sc.nextInt();
 for (int index = 0; index < a; index++) {
     if (chek(index)) {
