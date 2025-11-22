@@ -20,7 +20,7 @@ class Commerce implements College{
         return 2000;
     }
 }
-public class interfaceprgm {
+public class collegeinterfaceprgm {
     public static void main(String args[]){
         College dept;
 

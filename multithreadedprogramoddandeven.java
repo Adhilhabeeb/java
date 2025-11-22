@@ -34,7 +34,7 @@ class Even extends Thread {
     }
 }
 
-public class oddevenmulti {
+public class multithreadedprogramoddandeven {
     public static void main(String[] args){
         Odd oddThread = new Odd();
         Even evenThread = new Even();
